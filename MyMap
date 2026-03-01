@@ -1,0 +1,47 @@
+{
+  "7" : {
+    "id" : 4,
+    "name" : "4",
+    "coordinates" : {
+      "x" : 4,
+      "y" : 4.0
+    },
+    "creationDate" : "2026-02-24T20:47:42.25621Z",
+    "numberOfParticipants" : 4,
+    "albumsCount" : 4,
+    "genre" : null,
+    "label" : {
+      "bands" : 4
+    }
+  },
+  "3" : {
+    "id" : 3,
+    "name" : "insert",
+    "coordinates" : {
+      "x" : 1,
+      "y" : 1.0
+    },
+    "creationDate" : "2026-02-24T20:47:29.517719Z",
+    "numberOfParticipants" : 2,
+    "albumsCount" : 3,
+    "genre" : null,
+    "label" : {
+      "bands" : 6
+    }
+  },
+  "1" : {
+    "id" : 1,
+    "name" : "1",
+    "coordinates" : {
+      "x" : 1,
+      "y" : 1.0
+    },
+    "creationDate" : "2026-02-24T20:47:09.592503Z",
+    "numberOfParticipants" : 1,
+    "albumsCount" : 1,
+    "genre" : null,
+    "label" : {
+      "bands" : 1
+    }
+  }
+}
